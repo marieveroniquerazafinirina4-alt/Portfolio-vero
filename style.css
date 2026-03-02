@@ -1,0 +1,58 @@
+
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    background: #f644;
+}
+
+header {
+    background: #0078b6;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+nav {
+    background: #23e8a3;
+    padding: 20px;
+    text-align: Center ;
+}
+
+nav a {
+    color: darkred ;
+    margin: 50px;
+    
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background: #007756;
+    color: wheat;
+    text-align: center ;
+    padding: 10px;
+}
+.card img {
+    width: 4%;
+    height:4px;
+
+}
+
+img{
+    width:12rem;
+    height: 13rem;
+}
+li{
+  color: black ;  
+  
+}
+h2{
+    color: gros ;
+}
+
+
+
+
